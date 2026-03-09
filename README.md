@@ -3,61 +3,34 @@
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
-## Problem Statement and Dataset
-Include the problem statement and Dataset
-
-
-## Neural Network Model
-Include the neural network model diagram.
 
 ## DESIGN STEPS
-### STEP 1: 
+STEP 1:
+Import required libraries and define image transforms.
 
-Write your own steps
+STEP 2:
+Load training and testing datasets using ImageFolder.
 
-### STEP 2: 
+STEP 3:
+Visualize sample images from the dataset.
 
+STEP 4:
+Load pre-trained VGG19, modify the final layer for binary classification, and freeze feature extractor layers.
 
+STEP 5:
+Define loss function (BCEWithLogitsLoss) and optimizer (Adam). Train the model and plot the loss curve.
 
-### STEP 3: 
-
-
-
-### STEP 4: 
-
-
-
-### STEP 5: 
-
-
-
-### STEP 6: 
-
-
-
+STEP 6:
+Evaluate the model with test accuracy, confusion matrix, classification report, and visualize predictions.
 
 
 ## PROGRAM
 
-### Name:
+### Name:ISHWARYA R
 
-### Register Number:
+### Register Number:212224220039
 
-```python
-# Load Pretrained Model and Modify for Transfer Learning
-
-
-
-# Modify the final fully connected layer to match the dataset classes
-
-
-
-# Include the Loss function and optimizer
-
-
-
-# Train the model
-
+```
 
 ```
 
