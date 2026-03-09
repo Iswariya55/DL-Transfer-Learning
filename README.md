@@ -193,18 +193,22 @@ def predict_image(model, image_index, dataset):
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
+<img width="1039" height="849" alt="image" src="https://github.com/user-attachments/assets/3eeea148-a6b9-418e-bf78-b4866bd1bae3" />
 
 
 ## Confusion Matrix
+<img width="1050" height="503" alt="image" src="https://github.com/user-attachments/assets/dbbc218c-f2d2-46f6-b8b6-bf10ca3b6999" />
 
 
 
 ## Classification Report
+<img width="508" height="416" alt="image" src="https://github.com/user-attachments/assets/ecc3f82d-516b-4744-8d86-5b9e6c3a3ee6" />
 
 
 
 ### New Sample Data Prediction
+<img width="574" height="473" alt="image" src="https://github.com/user-attachments/assets/a52a8e30-70fe-4199-b7f6-5d4344b20ede" />
 
 
 ## RESULT
-
+VGG19 model was fine-tuned and tested successfully. The model achieved good accuracy with correct predictions on sample test images.
