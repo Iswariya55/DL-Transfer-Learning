@@ -3,6 +3,13 @@
 ## AIM
 To develop an image classification model using transfer learning with VGG19 architecture for the given dataset.
 
+## PROBLEM STATEMENT
+
+
+## NEURAL NETWORK MODEL
+
+<img width="1027" height="1025" alt="image" src="https://github.com/user-attachments/assets/3dcc6a73-785f-4c9d-8db9-77d4a41eadf6" />
+
 
 ## DESIGN STEPS
 STEP 1:
